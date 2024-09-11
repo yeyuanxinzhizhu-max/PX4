@@ -1,0 +1,2 @@
+Px4_keyboard_control
+-DCATKIN_DEVEL_PREFIX=/home/yxwang/Projects/PX4-Control/devel -DCMAKE_INSTALL_PREFIX=/home/yxwang/Projects/PX4-Control/install -G Unix Makefiles
